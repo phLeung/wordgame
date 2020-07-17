@@ -1,0 +1,24 @@
+{
+  "name": "wordgame",
+  "version": "1.0.0",
+  "description": "Interactive hangman game with UFO theme",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phLeung/wordgame.git"
+  },
+  "author": "Philip Leung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phLeung/wordgame/issues"
+  },
+  "homepage": "https://github.com/phLeung/wordgame#readme"
+}
